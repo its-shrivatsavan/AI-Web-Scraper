@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# WebDriver binaries
+chromedriver.exe
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Images (optional)
+*.png
